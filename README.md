@@ -6,7 +6,7 @@ Given a topic word or phrase, this toolkit generates a list of related words to 
 To run:
 
 sh initial.sh
-// To compile all the files.
+//To compile all the files.
 
 sh initial_server_1.sh &
 // Wait until it outputs "ready to operate ....", then continue running the next command.
