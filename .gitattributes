@@ -1,0 +1,2 @@
+data/vectors-phrase-40-small.bin filter=lfs diff=lfs merge=lfs -text
+data/distance_all filter=lfs diff=lfs merge=lfs -text

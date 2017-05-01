@@ -1,0 +1,12 @@
+rm data/reorder_rhyme_*
+rm data/rhyme_file_*
+rm data/related_words_1*
+rm data/related_words_2*
+rm data/related_words_3*
+rm data/related_words_4*
+rm data/related_words_5*
+rm data/related_words_6*
+rm data/related_words_7*
+rm data/related_words_8*
+rm data/related_words_9*
+rm data/rhyme_log*
