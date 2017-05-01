@@ -1,3 +1,4 @@
+
 This is the source code for the "Generating Topical Poetry" (M. Ghazvininejad, X. Shi, Y. Choi, and K. Knight), Proc. EMNLP, 2016 paper.
 
 Given a topic word or phrase, this toolkit generates a list of related words to the topic, chooses rhyme words and constructs an FSA of all possible poems in iambic pentameter format with appropriate rhythm and rhymes. 
@@ -6,12 +7,15 @@ Given a topic word or phrase, this toolkit generates a list of related words to 
 To run:
 
 sh initial.sh
+
 //To compile all the files.
 
 sh initial_server_1.sh &
+
 // Wait until it outputs "ready to operate ....", then continue running the next command.
 
 sh initial_server_2.sh &
+
 // Wait until it outputs "ready to operate ....", then continue running the next command.
 
 sh initial_server_3.sh &
