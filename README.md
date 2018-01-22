@@ -10,7 +10,7 @@ Given a topic word or phrase, this toolkit generates a list of related words to 
 These instructions will get you a copy of the project and provide instruction for running the program. 
 
 - First clone the github
-- Download word2ved file from https://drive.google.com/drive/folders/1LsygG2sQKlFJDXpz2es_NvXSC0t-NSDB?usp=sharing and place the file in data folder
+- Download word2ved and distance files from https://drive.google.com/drive/folders/1LsygG2sQKlFJDXpz2es_NvXSC0t-NSDB?usp=sharing and place them in data folder
 
 
 ## To run
