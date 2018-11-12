@@ -1,6 +1,6 @@
 
 sh pre_process.sh
-g++ -o distance_server distance_server.cpp 
+g++ -fPIC -mcmodel=medium -o distance_server distance_server.cpp 
 g++ -o client client.c
 g++ -std=c++0x -o find_rhyme_words_server find_rhyme_words_server.cpp  
 g++ -std=c++0x -o phrase_to_accepted_phrases_server phrase_to_accepted_phrases_server.cpp 
